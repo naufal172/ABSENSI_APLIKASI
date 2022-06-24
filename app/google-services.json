@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902243342714",
+    "project_id": "absensi-aplikasi-daa45",
+    "storage_bucket": "absensi-aplikasi-daa45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902243342714:android:8af9c2fd4d259a0ffcdec3",
+        "android_client_info": {
+          "package_name": "org.d3if0128.absensi_aplikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902243342714-7jpcbk7tllp6k13jnknkdk96mjp202dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvFYoVtTBFxYGZFsuR57ACBfsUmk1YoJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902243342714-7jpcbk7tllp6k13jnknkdk96mjp202dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
